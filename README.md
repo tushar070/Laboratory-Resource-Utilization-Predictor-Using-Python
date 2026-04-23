@@ -49,6 +49,10 @@ streamlit run app.py
 *Your browser will automatically open and display the Dashboard, Predictions, and Reorder Alerts!*
 
 ---
+<img width="1885" height="842" alt="image" src="https://github.com/user-attachments/assets/686a2616-f224-4d24-af12-76b56734f12a" />
+<img width="1371" height="777" alt="image" src="https://github.com/user-attachments/assets/dc77c5a2-6baa-4245-a5cc-485f850bd0cc" />
+<img width="1444" height="771" alt="image" src="https://github.com/user-attachments/assets/d0aeea4d-1ae2-45d7-9bfe-1261268fedd3" />
+<img width="1388" height="717" alt="image" src="https://github.com/user-attachments/assets/0390e71a-ece8-48cf-8499-fb1fe2572f1f" />
 
 ## 🧠 What's Happening Under The Hood?
 
